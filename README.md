@@ -25,7 +25,7 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 ### EXTRA
 Omarchy Themes can be enhanced your theming such as customizing: neovim, shaders, fonts, templates, generating colors, GTK app colors (experimental), and more!
 1. Using Aether App, pre-installed on Omarchy Hyprland Systems.
-2. If you're not using Omarchy or uninstalled default applications, you can install Aether from the AUR: `yay -S aether`
+2. If you're not using Omarchy or uninstalled default applications, you can install Aether from the AUR:</br> `yay -S aether`
   - https://github.com/bjarneo/aether
 
 In addition to Aether, you can go even further by exploring `omarchy-theme-hook`, which allows for further customization to your system. 
