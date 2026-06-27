@@ -9,7 +9,7 @@ _   _ _____ ___  _   _   _____    _    ____ _____ _____ ____
 
 Neon Easter was created specifically for **OMARCHY 4 (Quattro)** | Compatible with Omarchy 3.7+.</br>
 *Give me the glow of TRON.*
-
+<img width="3840" height="2160" alt="preview" src="https://github.com/user-attachments/assets/840d319f-8619-42ed-83c9-4dac0279a13f" />
 New, Omarchy 4+ (Plymouth) Unlock Screen 
 
 # Installation
