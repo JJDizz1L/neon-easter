@@ -1,6 +1,6 @@
 return {
   {
-    "bjarneo/aether.nvim",
+    "omacom/aether.nvim",
     branch = "v3",
     name = "aether",
     priority = 1000,
@@ -12,24 +12,24 @@ return {
         lighter_bg = "#1a1a1a",
 
         fg         = "#f8e45c",
-        dark_fg    = "#a89541",
+        dark_fg    = "#baab45",
         light_fg   = "#f9e874",
         bright_fg  = "#faeb85",
-        muted      = "#816d26",
+        muted      = "#897100",
 
         red        = "#ff4e96",
-        yellow     = "#e27f00",
+        yellow     = "#ff882b",
         orange     = "#ff69a6",
-        green      = "#3ba900",
-        cyan       = "#24B0B5",
+        green      = "#3bab18",
+        cyan       = "#00c2d3",
         blue       = "#00a6f2",
         purple     = "#af79ff",
         brown      = "#993f64",
 
         bright_red    = "#ff4e96",
-        bright_yellow = "#e27f00",
-        bright_green  = "#3ba900",
-        bright_cyan   = "#24B0B5",
+        bright_yellow = "#ff882b",
+        bright_green  = "#3bab18",
+        bright_cyan   = "#00c2d3",
         bright_blue   = "#00a6f2",
         bright_purple = "#af79ff",
 
